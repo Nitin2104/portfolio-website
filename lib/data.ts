@@ -35,12 +35,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Web Developer",
+    location: "Delhi, India",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "I graduated after 4 years of studying. I immediately found a job as a Web developer.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2023",
   },
   {
     title: "Front-End Developer",
@@ -62,10 +62,10 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Learning Wings",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "I worked as a Web developer on this startup for 2 years.",
+    tags: ["Wordpress", "Woocommerce", "Java", "Spring", "Hibernate","Microservices"],
     imageUrl: corpcommentImg,
   },
   {
@@ -85,23 +85,18 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "React",
-  "Next.js",
-  "Node.js",
-  "Git",
-  "Tailwind",
-  "Prisma",
-  "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
+  "Java",
+  "Springboot",
+  "C Programming Language",
+  "Hibernate ORM",
+  "MicroServices",
+  "Html5",
+  "CSS3",
+  "Javascript",
+  "Bootstrap",
+  "SQL",
+  "Postman",
+  "MyEclipse",
+  "Wordpress",
+  "WooCommerce",
 ] as const;

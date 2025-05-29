@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="C:\Users\NITIN\JavaPrep\Github\portfolio-website\public"
+              src="/nitin.jpg"
               alt="Nitin portrait"
               width="192"
               height="192"
